@@ -41,7 +41,7 @@ const ContactPage = () => {
             </label>
             <textarea
               id="message"
-              rows="4"
+              rows=4
               className="mt-1 block w-full px-3 dark:text-white py-2 border rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
             ></textarea>
           </div>
