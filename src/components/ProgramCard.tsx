@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { programsProps } from "../../utils/types";
+import { programsProps } from "../utils/types";
 
 const ProgramCard = ({ title, description, image }: programsProps) => (
   <div className="text-center">
