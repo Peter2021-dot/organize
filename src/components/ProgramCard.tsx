@@ -1,10 +1,3 @@
-// utils/types.ts
-export interface programsProps {
-  title: string;
-  description: string;
-  image: string; // or StaticImageData if using static imports
-}
-
 import Image from "next/image";
 import { programsProps } from "../utils/types";
 
